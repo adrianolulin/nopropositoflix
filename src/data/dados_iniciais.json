@@ -1,0 +1,124 @@
+{
+  "categorias": [
+    {
+      "titulo": "XÔ MURMURAÇÃO",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Chega pra lá o mimimi..."
+      },
+      "videos": [
+        {
+          "titulo": "Apresentação Dra.Lia Noleto",
+          "url": "https://www.youtube.com/watch?v=V0J_5RRF9lM&feature=youtu.be"
+        },
+
+        {
+          "titulo": "4 decisões importantes que vão transformar a sua vida",
+          "url": "https://youtu.be/zz8XKPJZrfk?list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        },
+
+        {
+          "titulo": "2ª decisão - Saiba mais sobre as decisões que você deve tomar",
+          "url": "https://www.youtube.com/watch?v=Cb0TOAEcDpU&feature=youtu.be&list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        },
+
+        {
+          "titulo": "3ª decisão - Vai ajudar a você a transformar a sua vida",
+          "url": "https://www.youtube.com/watch?v=uSdmfbCuAUM&feature=youtu.be"
+        },
+
+        {
+          "titulo": "4ª decisão - Adotar uma mentalidade de sucesso",
+          "url": "https://www.youtube.com/watch?v=_I6oywgwGvc&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "VENCENDO GIGANTES",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Vencendo o inimigo..."
+      },
+      "videos": [
+        {
+          "titulo": "Maestria",
+          "url": "https://www.youtube.com/watch?v=jSsYSmlln3M&feature=youtu.be&list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        },
+        {
+          "titulo": "O poder de uma negociação",
+          "url": "https://www.youtube.com/watch?v=n7kXrTjZ1ko&feature=youtu.be"
+        },
+        {
+          "titulo": "10 áreas que te acompanham para o sucesso",
+          "url": "https://www.youtube.com/watch?v=brSwoFTI_yE&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "NO PROPÓSITO",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Vou te ajudar a encontrar o seu Propósito..."
+      },
+      "videos": [
+        {
+          "titulo": "Decida-se",
+          "url": "https://youtu.be/fD2yNadG5rI?list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        },
+        {
+          "titulo": "Positivismo - Você pensa de forma positiva na sua vida?",
+          "url": "https://youtu.be/rohW9cI36jM?list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        }
+      ]
+    },
+    {
+      "titulo": "VÍDEOS EXTRAS",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Crie um você mais significativo"
+      },
+      "videos": [
+        {
+          "titulo": "Crie um você mais significativo",
+          "url": "https://www.youtube.com/watch?v=7ZOFHvYEXm8&feature=youtu.be&list=PLklusjWle50kHLFIZ3Ibgt0-fV1MVJPFm"
+        }
+      ]
+    },
+    {
+      "titulo": "PALESTRAS",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Palestras Dra. Lia Noleto"
+      },
+      "videos": [
+        {
+          "titulo": "Mulher PSC Poços de Caldas",
+          "url": "https://www.youtube.com/watch?v=v2hpCADEJF8&feature=youtu.be"
+        },
+        {
+          "titulo": "Mulher PSC Paragominas",
+          "url": "https://www.youtube.com/watch?v=YkBcX7LXYFg&feature=youtu.be"
+        },
+        {
+          "titulo": "Mulher PSC Vitoria",
+          "url": "https://www.youtube.com/watch?v=CHh2aShzptU&feature=youtu.be"
+        }
+      ]
+    },
+
+    {
+      "titulo": "VÍDEOS SELECIONADOS DO INSTAGRAM",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Temas diversos"
+      },
+      "videos": [
+        {
+          "titulo": "Solucione",
+          "url": "https://www.youtube.com/watch?v=RQ95rlli0E0&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
